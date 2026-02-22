@@ -15,7 +15,10 @@
   },
   "content_scripts": [
     {
-      "js": ["scripts/content.js"],
+      "js": [
+        "scripts/browser-polyfill.min.js",
+        "scripts/content.js"
+      ],
       "matches": [
         "https://github.com/*"
       ]
