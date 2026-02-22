@@ -1,6 +1,6 @@
 # github-unslop
 
-Hide some Copilot stuff on GitHub that I find annyoing.
+Hide some Copilot stuff on GitHub that I find annoying.
 
 ## Effect
 - Hide the Copilot text box from the [GitHub home page](https://github.com/).
