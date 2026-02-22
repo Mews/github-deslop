@@ -1,0 +1,10 @@
+{
+  "name": "GitHub Unslop",
+  "description": "Hide some Copilot stuff on GitHub that I find annoying.",
+  "version": "0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "assets/icon_transparent.png"
+  }
+}
