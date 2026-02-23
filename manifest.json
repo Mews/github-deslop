@@ -1,17 +1,21 @@
 {
   "name": "GitHub De-slop",
   "description": "Hide some Copilot stuff on GitHub that I find annoying.",
+  "author": "Mews",
+
   "version": "0.1",
   "manifest_version": 3,
-  "action": {
-    "default_popup": "popup/popup.html",
-    "default_icon": "assets/icon_transparent.png"
-  },
+
   "icons": {
     "16": "assets/icon-16.png",
     "32": "assets/icon-32.png",
     "48": "assets/icon-48.png",
     "128": "assets/icon-128.png"
+  },
+
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "assets/icon_transparent.png"
   },
   "content_scripts": [
     {
@@ -24,4 +28,5 @@
       ]
     }
   ]
+
 }
