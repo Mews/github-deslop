@@ -1,9 +1,14 @@
-const isDashboardPage = () => {
+const isHomePage = () => {
     const path = window.location.pathname;
-    return path === "/" || path === "/dashboard";
+    return path === "/";
 };
 
-if (isDashboardPage()) {
+const isDashboardPage = () => {
+    const path = window.location.pathname;
+    return path === "/dashboard";
+};
+
+if (isHomePage() || isDashboardPage()) {
     var removedElements = 0;
 
     const copilotInputFields = document.querySelectorAll('[partial-name="copilot-chat-input-partial"]');
