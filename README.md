@@ -1,9 +1,5 @@
-<header style="display: flex; align-items: center;">
-    <img src="assets/icon.png" height="50px"/>
-    <h2 style="padding-left: 15px;">GitHub Unslop</h2>
-</header>
+# github-unslop
 
-<br>
 Hide some Copilot stuff on GitHub that I find annoying.
 
 ## Effects
