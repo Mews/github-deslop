@@ -1,7 +1,7 @@
 <html>
     <head>
-        <script src="../scripts/browser-polyfill.min.js"></script>
-        <script src="popus.js"></script>
+        <script src="../scripts/browser-polyfill.min.js" type="module"></script>
+        <script src="popus.js" type="module" defer></script>
     </head>
     <body style="width: 300px; height: 150px;">
         <header style="display: flex; align-items: center;">
@@ -9,7 +9,13 @@
             <h2 style="padding-left: 5px;">GitHub De-slop</h2>
         </header>
         <div class="main">
-            Todo
+            <input type="checkbox" id="home_page">
+            <label for="home_page">Remove Copilot from home page</label>
+
+            <br>
+
+            <input type="checkbox" id="dashboard_page">
+            <label for="dashboard_page">Remove Copilot from dashboard page</label>
         </div>
     </body>
 </html>
