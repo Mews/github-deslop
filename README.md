@@ -1,4 +1,4 @@
-# github-unslop
+# GitHub De-slop
 
 Browser extension to hide some Copilot stuff on GitHub that I find annoying.
 

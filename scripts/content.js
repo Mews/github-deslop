@@ -12,5 +12,5 @@ if (isDashboardPage()) {
         removedElements++;
     } )
     
-    console.log(`GitHub Unslop: Removed ${removedElements} elements.`)
+    console.log(`GitHub De-slop: Removed ${removedElements} elements.`)
 }
