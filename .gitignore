@@ -10,3 +10,7 @@ dist
 # private keys
 *.pem
 pems/
+
+# distributions
+*.crx
+dists/
