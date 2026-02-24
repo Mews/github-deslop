@@ -9,6 +9,6 @@ Browser extension to hide some Copilot stuff on GitHub that I find annoying.
 > Feel free to suggest anything else you'd like to see changed or removed :p
 
 ## Installing
-Go to the [releases page](https://github.com/Mews/github-deslop/releases) and download the `.xpi` file for Firefox, or the `.crx` file for Chrome, Edge, Opera, or other chromium browsers. 
+Go to the [releases page](https://github.com/Mews/github-deslop/releases) and download the `.xpi` file for Firefox, or the `.zip` file (and extract it) for Chrome, Edge, Opera, or other chromium browsers. 
 
 Then you can install it using the developer mode.
