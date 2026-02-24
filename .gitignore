@@ -6,3 +6,7 @@ _metadata
 dist
 **/*.swp
 .vscode
+
+# private keys
+*.pem
+pems/
